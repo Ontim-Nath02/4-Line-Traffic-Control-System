@@ -37,5 +37,5 @@ Each phase includes a countdown timer displayed on a 7-segment display.
 1. Add vehicle detection sensors 
 2. Use LCD display instead of 7-segment 
 3. Implement adaptive traffic control
-4. Add pedestrian crossing system 🚶
+4. Add pedestrian crossing system 
 
